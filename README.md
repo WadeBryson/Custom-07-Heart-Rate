@@ -21,4 +21,6 @@ Author: Wade Bryson
 
 ## Screenshot
 
-See a running example with at least 3 concurrent process windows here:
+See a running example here:
+<img align="center" width="921" height="483" src="Heart Rate Producer.png">
+<img align="center" width="921" height="483" src="Heart Rate Listener.png">
