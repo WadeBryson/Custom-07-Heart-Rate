@@ -21,18 +21,26 @@ def callback(ch, method, properties, body):
     # decode the binary message body to a string
     logger.info(f" [x] Received {body.decode()}")
 
-    # Check for elevated heart rate
-    heart_rate = float(body.decode())
-    if heart_rate >= 120:
-        alert_needed = True
+    try:
+        # Splitting the time stamp and temperature
+        heart_rate_info = body.decode().split(",")
 
-        if alert_needed:
-            logger.info("Alert! Your heart rate is really high. You need to see a doctor.")
+        heart_rate = float(heart_rate_info[1])
+        heart_rate_timestamp = heart_rate_info[0]
+
+        if heart_rate >= 120:
+            alert_needed = True
+
+            if alert_needed:
+                logger.info("Alert! Your heart rate is really high. You need to see a doctor.")
+    
+    except Exception as e:
+        logger.error("ERROR: There was an error processing the heart rate.")
 
 
    
     # when done with task, tell the user
-    logger.info(" [x] Done.")
+    logger.info(" [x] Received Heart Rate.")
     # acknowledge the message was received and processed 
     # (now it can be deleted from the queue)
     ch.basic_ack(delivery_tag=method.delivery_tag)

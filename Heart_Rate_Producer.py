@@ -56,12 +56,14 @@ def send_message(host: str, queue1_name: str, input_file: str):
             
             for row in reader:
                 # separate row into variables
-                Heart_Rate = row
+                timestamp, Heart_Rate = row
                 # define messages
-                message1 = Heart_Rate
+                message1 = timestamp, Heart_Rate
+                # joining the messages
+                message1_join = ",".join(message1).encode()
                 # use the channel to publish first message to first queue
                 # every message passes through an exchange
-                ch.basic_publish(exchange="", routing_key=queue1_name, body=message1)
+                ch.basic_publish(exchange="", routing_key=queue1_name, body=message1_join)
                 logger.info(f" [x] Sent {message1} to {queue1_name}")
    
                 # wait 3 seconds before sending the next message to the queue
