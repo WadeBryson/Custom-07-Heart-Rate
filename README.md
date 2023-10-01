@@ -1,6 +1,6 @@
 # Custom-07-Heart-Rate
-Author: Wade Bryson
-Class: Streaming Data
+- Author: Wade Bryson
+- Class: Streaming Data
 ## Prerequisites
 
 1. Git
