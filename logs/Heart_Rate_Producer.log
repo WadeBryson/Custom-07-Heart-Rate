@@ -1,7 +1,57 @@
-2023-10-01 14:23:53,755.Heart_Rate_Producer.INFO ==================================================
-2023-10-01 14:23:53,756.Heart_Rate_Producer.INFO Today is 2023-10-01 at 02:23 PM
-2023-10-01 14:23:53,756.Heart_Rate_Producer.INFO Running on: nt Windows 10
-2023-10-01 14:23:53,756.Heart_Rate_Producer.INFO Python version:  3.11.3
-2023-10-01 14:23:53,756.Heart_Rate_Producer.INFO Python path: C:\Users\wadej\AppData\Local\Programs\Python\Python311
-2023-10-01 14:23:53,756.Heart_Rate_Producer.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Custom-07-Heart-Rate
-2023-10-01 14:23:53,756.Heart_Rate_Producer.INFO ==================================================
+2023-10-01 14:36:06,729.Heart_Rate_Producer.INFO ==================================================
+2023-10-01 14:36:06,730.Heart_Rate_Producer.INFO Today is 2023-10-01 at 02:36 PM
+2023-10-01 14:36:06,731.Heart_Rate_Producer.INFO Running on: nt Windows 10
+2023-10-01 14:36:06,731.Heart_Rate_Producer.INFO Python version:  3.11.3
+2023-10-01 14:36:06,731.Heart_Rate_Producer.INFO Python path: C:\Users\wadej\AppData\Local\Programs\Python\Python311
+2023-10-01 14:36:06,732.Heart_Rate_Producer.INFO Working dir: C:\Users\wadej\OneDrive\Documents\Custom-07-Heart-Rate
+2023-10-01 14:36:06,732.Heart_Rate_Producer.INFO ==================================================
+2023-10-01 14:36:13,388.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:20', '80') to Heart_Rate_Queue
+2023-10-01 14:36:15,389.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:20', '53') to Heart_Rate_Queue
+2023-10-01 14:36:17,391.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:21', '86') to Heart_Rate_Queue
+2023-10-01 14:36:19,392.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:21', '56') to Heart_Rate_Queue
+2023-10-01 14:36:21,393.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:22', '110') to Heart_Rate_Queue
+2023-10-01 14:36:23,394.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:22', '97') to Heart_Rate_Queue
+2023-10-01 14:36:25,396.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:23', '103') to Heart_Rate_Queue
+2023-10-01 14:36:27,397.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:23', '53') to Heart_Rate_Queue
+2023-10-01 14:36:29,398.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:24', '114') to Heart_Rate_Queue
+2023-10-01 14:36:31,400.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:24', '55') to Heart_Rate_Queue
+2023-10-01 14:36:33,401.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:25', '59') to Heart_Rate_Queue
+2023-10-01 14:36:35,403.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:25', '54') to Heart_Rate_Queue
+2023-10-01 14:36:37,404.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:25', '124') to Heart_Rate_Queue
+2023-10-01 14:36:39,405.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:26', '126') to Heart_Rate_Queue
+2023-10-01 14:36:41,406.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:26', '123') to Heart_Rate_Queue
+2023-10-01 14:36:43,408.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:27', '75') to Heart_Rate_Queue
+2023-10-01 14:36:45,410.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:27', '97') to Heart_Rate_Queue
+2023-10-01 14:36:47,411.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:28', '130') to Heart_Rate_Queue
+2023-10-01 14:36:49,413.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:28', '73') to Heart_Rate_Queue
+2023-10-01 14:36:51,414.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:29', '111') to Heart_Rate_Queue
+2023-10-01 14:36:53,415.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:29', '61') to Heart_Rate_Queue
+2023-10-01 14:36:55,417.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:30', '56') to Heart_Rate_Queue
+2023-10-01 14:36:57,418.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:30', '53') to Heart_Rate_Queue
+2023-10-01 14:36:59,419.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:31', '78') to Heart_Rate_Queue
+2023-10-01 14:37:01,420.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:31', '73') to Heart_Rate_Queue
+2023-10-01 14:37:03,421.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:32', '103') to Heart_Rate_Queue
+2023-10-01 14:37:05,423.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:32', '57') to Heart_Rate_Queue
+2023-10-01 14:37:07,424.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:33', '85') to Heart_Rate_Queue
+2023-10-01 14:37:09,425.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:33', '90') to Heart_Rate_Queue
+2023-10-01 14:37:11,427.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:34', '91') to Heart_Rate_Queue
+2023-10-01 14:37:13,429.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:34', '73') to Heart_Rate_Queue
+2023-10-01 14:37:15,430.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:35', '54') to Heart_Rate_Queue
+2023-10-01 14:37:17,432.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:35', '87') to Heart_Rate_Queue
+2023-10-01 14:37:19,433.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:36', '109') to Heart_Rate_Queue
+2023-10-01 14:37:21,434.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:36', '107') to Heart_Rate_Queue
+2023-10-01 14:37:23,436.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:37', '108') to Heart_Rate_Queue
+2023-10-01 14:37:25,437.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:37', '61') to Heart_Rate_Queue
+2023-10-01 14:37:27,438.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:38', '103') to Heart_Rate_Queue
+2023-10-01 14:37:29,439.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:38', '108') to Heart_Rate_Queue
+2023-10-01 14:37:31,441.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:39', '95') to Heart_Rate_Queue
+2023-10-01 14:37:33,442.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:39', '55') to Heart_Rate_Queue
+2023-10-01 14:37:35,443.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:40', '68') to Heart_Rate_Queue
+2023-10-01 14:37:37,445.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:40', '100') to Heart_Rate_Queue
+2023-10-01 14:37:39,446.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:41', '69') to Heart_Rate_Queue
+2023-10-01 14:37:41,448.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:41', '86') to Heart_Rate_Queue
+2023-10-01 14:37:43,449.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:42', '51') to Heart_Rate_Queue
+2023-10-01 14:37:45,451.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:42', '116') to Heart_Rate_Queue
+2023-10-01 14:37:47,452.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:43', '78') to Heart_Rate_Queue
+2023-10-01 14:37:49,453.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:43', '124') to Heart_Rate_Queue
+2023-10-01 14:37:51,455.Heart_Rate_Producer.INFO  [x] Sent ('5/22/2021 12:44', '62') to Heart_Rate_Queue
